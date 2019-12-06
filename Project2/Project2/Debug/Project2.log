@@ -1,0 +1,54 @@
+﻿  Source.cpp
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,30): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,30): warning C4244:         with
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,30): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,30): warning C4244:             T=float
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,30): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,20): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,20): warning C4244:         with
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,20): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,20): warning C4244:             T=float
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(37,20): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(69,36): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(69,26): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(73,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,53): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,53): warning C4244:         with
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,53): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,53): warning C4244:             T=int
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,53): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,53): warning C4244:         and
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,53): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,53): warning C4244:             T=float
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,53): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,46): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,46): warning C4244:         with
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,46): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,46): warning C4244:             T=int
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,46): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,46): warning C4244:         and
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,46): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,46): warning C4244:             T=float
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(120,46): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,64): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,64): warning C4244:         with
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,64): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,64): warning C4244:             T=float
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,64): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,54): warning C4244:         with
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,54): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,54): warning C4244:             T=float
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(132,54): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,53): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,53): warning C4244:         with
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,53): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,53): warning C4244:             T=float
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,53): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,29): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,29): warning C4244:         with
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,29): warning C4244:         [
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,29): warning C4244:             T=float
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(133,29): warning C4244:         ]
+C:\Users\Administrator\Desktop\Project2\Project2\Source.cpp(144,22): error C2660:  'getNextMove': function does not take 0 arguments
+C:\Users\Administrator\Desktop\Project2\Project2\Connector.hpp(37,13): message :  see declaration of 'getNextMove'
