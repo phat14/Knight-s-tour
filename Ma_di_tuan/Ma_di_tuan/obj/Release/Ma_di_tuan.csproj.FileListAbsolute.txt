@@ -1,0 +1,34 @@
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.exe
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.pdb
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\bin\Release\Ma_di_tuan.exe
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\bin\Release\Ma_di_tuan.pdb
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csprojResolveAssemblyReference.cache
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.GroupInit.resources
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.Init.resources
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.Main.resources
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.Properties.Resources.resources
+G:\Code\C#\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\bin\Release\Ma_di_tuan.exe
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\bin\Release\Ma_di_tuan.pdb
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.GroupInit.resources
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.Init.resources
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.Main.resources
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.Properties.Resources.resources
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csproj.CopyComplete
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.exe
+C:\Users\Administrator\Desktop\www.StudyCoding.net Ma_di_tuan\www.StudyCoding.net Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.pdb
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\bin\Release\Ma_di_tuan.exe
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\bin\Release\Ma_di_tuan.pdb
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.GroupInit.resources
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.Init.resources
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.Main.resources
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.exe
+C:\Users\Administrator\Desktop\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\Ma_di_tuan\obj\Release\Ma_di_tuan.pdb
